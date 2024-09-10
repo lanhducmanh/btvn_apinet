@@ -1,0 +1,9 @@
+E:\C#\NET\Thue\manh(chuvi_hinhchop)\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+E:\C#\NET\Thue\manh(chuvi_hinhchop)\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+E:\C#\NET\Thue\manh(chuvi_hinhchop)\ConsoleApp2\bin\Debug\ClassLibrary1.dll
+E:\C#\NET\Thue\manh(chuvi_hinhchop)\ConsoleApp2\bin\Debug\ClassLibrary1.pdb
+E:\C#\NET\Thue\manh(chuvi_hinhchop)\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+E:\C#\NET\Thue\manh(chuvi_hinhchop)\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+E:\C#\NET\Thue\manh(chuvi_hinhchop)\ConsoleApp2\obj\Debug\ConsoleA.D5FB4C91.Up2Date
+E:\C#\NET\Thue\manh(chuvi_hinhchop)\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+E:\C#\NET\Thue\manh(chuvi_hinhchop)\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

@@ -1,0 +1,10 @@
+E:\C#\NET\Thue\manh(chuvi_hinhchop)\WebApplication2\obj\Debug\WebApplication2.csproj.AssemblyReference.cache
+E:\C#\NET\Thue\manh(chuvi_hinhchop)\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
+E:\C#\NET\Thue\manh(chuvi_hinhchop)\WebApplication2\bin\WebApplication2.dll.config
+E:\C#\NET\Thue\manh(chuvi_hinhchop)\WebApplication2\bin\WebApplication2.dll
+E:\C#\NET\Thue\manh(chuvi_hinhchop)\WebApplication2\bin\WebApplication2.pdb
+E:\C#\NET\Thue\manh(chuvi_hinhchop)\WebApplication2\bin\Newtonsoft.Json.dll
+E:\C#\NET\Thue\manh(chuvi_hinhchop)\WebApplication2\bin\Newtonsoft.Json.xml
+E:\C#\NET\Thue\manh(chuvi_hinhchop)\WebApplication2\obj\Debug\WebAppli.0DB3FC1A.Up2Date
+E:\C#\NET\Thue\manh(chuvi_hinhchop)\WebApplication2\obj\Debug\WebApplication2.dll
+E:\C#\NET\Thue\manh(chuvi_hinhchop)\WebApplication2\obj\Debug\WebApplication2.pdb

@@ -1,0 +1,6 @@
+E:\C#\NET\Thue\manh(chuvi_hinhchop)\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\C#\NET\Thue\manh(chuvi_hinhchop)\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\C#\NET\Thue\manh(chuvi_hinhchop)\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\C#\NET\Thue\manh(chuvi_hinhchop)\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\C#\NET\Thue\manh(chuvi_hinhchop)\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\C#\NET\Thue\manh(chuvi_hinhchop)\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

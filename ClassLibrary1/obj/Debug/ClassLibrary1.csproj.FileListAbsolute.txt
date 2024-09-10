@@ -1,0 +1,6 @@
+E:\C#\NET\Thue\manh(chuvi_hinhchop)\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+E:\C#\NET\Thue\manh(chuvi_hinhchop)\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+E:\C#\NET\Thue\manh(chuvi_hinhchop)\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+E:\C#\NET\Thue\manh(chuvi_hinhchop)\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+E:\C#\NET\Thue\manh(chuvi_hinhchop)\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+E:\C#\NET\Thue\manh(chuvi_hinhchop)\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
